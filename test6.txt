@@ -1,0 +1,3 @@
+test6.txt 
+local edit
+local edit 2
